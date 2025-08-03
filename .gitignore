@@ -1,0 +1,15 @@
+# Ignore AppData and system files
+AppData/
+*.log
+*.tmp
+*.cache
+*.jpg
+*.png
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# Node or Python dependencies (if any)
+node_modules/
+_pycache_/
