@@ -2,8 +2,8 @@
 
 A simple, fun, and beginner-friendly web app to **search and share GIFs instantly** using the [Giphy API](https://developers.giphy.com/).  
 Just type in a keyword, click search, and enjoy a gallery of trending or matching GIFs ready to share with your friends! 🚀
-
-
+<hr>
+<br>
 ✨ Features
 
 - 🔍 **Search GIFs** by any keyword
@@ -11,8 +11,8 @@ Just type in a keyword, click search, and enjoy a gallery of trending or matchin
 - 📱 **Responsive design** – works on desktop & mobile
 - 💾 **Download option** for GIFs
 - 🎯 **Beginner-friendly** clean code
-
-
+<hr>
+<br>
 🛠 Technologies Used
 
 * HTML5
@@ -20,11 +20,13 @@ Just type in a keyword, click search, and enjoy a gallery of trending or matchin
 * JavaScript (Vanilla JS)
 * Giphy API
 
-
+<hr>
+<br>
 🔗 Live Demo
 👉 [Click here to try it now!](https://jas023.github.io/gif-search-app/)
 
-
+<hr>
+<br>
 ⚙️ How It Works
 
 1. User types a keyword (e.g. “cats”) in the input field.
@@ -37,7 +39,8 @@ Just type in a keyword, click search, and enjoy a gallery of trending or matchin
    - Click on any GIF to **download** it.
    - Make another search easily.
   
-
+<hr>
+<br>
 📁 Folder Structure
 
 gif-generator/
@@ -49,7 +52,8 @@ gif-generator/
 ├── README.md # You’re reading it!
 
 
-
+<hr>
+<br>
 📬 Contact
 
 If you liked this project or have any questions, feel free to connect with me:
