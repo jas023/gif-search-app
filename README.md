@@ -23,7 +23,7 @@ Just type in a keyword, click search, and enjoy a gallery of trending or matchin
 <hr>
 <br>
 🔗 Live Demo
-👉 [Click here to try it now!](https://jas023.github.io/gif-search-app/)
+👉 [Click here to try it now!](https://your-gif-generator.netlify.app/)
 
 <hr>
 <br>
